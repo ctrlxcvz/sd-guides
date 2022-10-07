@@ -38,7 +38,7 @@ Guide Overview
   </h1>
 </summary>
 
-1. Installing Python
+1. Install Python
 2. (Optional) Install Notepad++
 3. Install Git
 4. Install Microsoft Visual Studio Community 2022
