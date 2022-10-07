@@ -219,6 +219,8 @@ demo.launch(share=True)(
 ![310648807_823000495368859_1392061855349642323_n](https://user-images.githubusercontent.com/111165333/194675322-06c76a04-13b0-4f39-a22a-71e4e3f5e950.jpg)
 - And it even works outside your own network; Just enter the "XXXX.gradio.app" address in any browser!
 - Close the CMD prompt "webui.bat" window when you are done running this instance of Stable Diffusion.
+<br>
+<br>
 
 **==== ACKNOWLEDGMENTS ====** <br>
 
