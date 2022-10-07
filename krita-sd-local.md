@@ -3,7 +3,7 @@ FOR WINDOWS 11 & NVIDIA GPUs </h2>
  
 **Difficulty: Easy - Intermediate - [Advanced]**
 
-### This guide is for local installation exclusively on your own machine currently
+### This guide is for local installation exclusively on your own machine currently.
 - There is a Google Colab method that might be added later.
 - I recommend trying that on your own for now as that is an easier, albeit more limiting, method due to Colabs limitations.
  
