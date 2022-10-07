@@ -50,7 +50,7 @@ Guide Overview
 <br>
  
 
-**Python:**
+**Install Python:**
 ```
 https://www.python.org/downloads/windows/
 ```
@@ -91,8 +91,7 @@ https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64
 https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
 ```
 
-**Download the Stable Diffusion neural network weights:**
-- You can download it here: 
+**Download the Stable Diffusion neural network weights here:**
 ```
 https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 ```
