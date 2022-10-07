@@ -232,7 +232,9 @@ This guide was assembled from the following websites:
 - https://beta.dreamstudio.ai/prompt-guide
 - https://www.reddit.com/r/StableDiffusion/comments/x058qi/comment/ipep6sk/?utm_source=share&utm_medium=web2x&context=3
 - https://www.reddit.com/user/shayeryan/
- 
+<br>
+<br>
+
 **==== DONATIONS SO I CAN KEEP ON TINKERING IF YOU FOUND THIS USEFUL ====** <br>
 - ETH: ctrlxcvz.eth
 - BTC: bc1qxdr9869dh42vtuctn5a4s3f68secyzal4e7gnn
