@@ -81,16 +81,21 @@ https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64
 ```
 https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
 ```
- 
-** You need the model.ckpt file, the Stable Diffusion model checkpoint, a big file containing the neural network weights: 
-- You can obtain it from the following site: 
+
+**Download the Stable Diffusion neural network weights:**
+- You can download it here: 
+```
 https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
-- Once downloaded - rename the file to "model.ckpt"
+```
+- The Stable Diffusion model checkpoint file is roughly ~4GB in size. 
+- Once downloaded - rename the file from "stable-diffusion-v-1-4-original.ckpt" to "model.ckpt"
 - Leave this file in your "Downloads" folder for now.
  
-+ (optional - but recommended) + 
-** You can use GPFGAN to improve faces, then you'll need to download the model from here: 
+**(optional - but recommended)**
+- You can use GPFGAN to improve faces, then you'll need to download the model from here:
+``` 
 https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth
+```
 - Leave this file in your "Downloads" folder for now.
  
 !!!! DO THIS STEP ONLY IF YOU DIDN'T INSTALL GITHUB DESKTOP AND WEBUI FOLDER EARLIER !!!!
