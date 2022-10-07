@@ -1,27 +1,35 @@
-==== KRITA + STABLE DIFFUSION LOCAL WEBUI PC INSTALLATION GUIDE ====
+## KRITA + STABLE DIFFUSION LOCAL WEBUI PC INSTALLATION GUIDE
+### FOR WINDOWS 11 & NVIDIA GPUs
  
-Difficulty: Easy - Intermediate - [Advanced] 
- 
----- FOR WINDOWS 11 & NVIDIA GPUs ----
-** This guide is for local installation exclusively on your own machine currently **
+**Difficulty: Easy - Intermediate - [Advanced]**
+
+### This guide is for local installation exclusively on your own machine currently
 - There is a Google Colab method that might be added later.
 - I recommend trying that on your own for now as that is an easier, albeit more limiting, method due to Colabs limitations.
  
-+ Optional Pre-req - but makes things a lot easier later +
+**Optional Pre-req - but makes things a lot easier later:**
 - I recommend creating a GitHub account, star this repository (or at least bookmark it in your browser), and install GitHub Desktop:
+```
 https://github.com/imperator-maximus/stable-diffusion-webui
-- Install GitHub Desktop: 
+```
+- Install GitHub Desktop:
+``` 
 https://desktop.github.com/
-- Go to https://github.com/imperator-maximus/stable-diffusion-webui > click "CODE" > "OPEN WITH GITHUB DESKTOP"
+```
+- Go here:
+```
+https://github.com/imperator-maximus/stable-diffusion-webui
+```
+- Click "CODE" > "OPEN WITH GITHUB DESKTOP"
 - GitHub Desktop default directory should be Documents > GitHub on your PC where it downloaded the folder "stable-diffusion-webui".
 - Make note of this directory for later.
  
-TECHNICAL REQUIREMENTS:
-!!!! PC/WINDOWS WITH NVIDIA GRAPHICS CARD ONLY !!!! REQUIRES A LOT OF VRAM FOR LOCAL INSTALLATION !!!!
-+ You need Python, Git, MS Visual Studio, and CUDA for Nvidia GPU all installed +
-++ Make sure Windows and all of your Nvidia Drivers are up to date before starting ++
+#### TECHNICAL REQUIREMENTS:
+- PC/WINDOWS WITH NVIDIA GRAPHICS CARD ONLY !!!! REQUIRES A LOT OF VRAM FOR LOCAL INSTALLATION
+- You need Python, Git, MS Visual Studio, and CUDA for Nvidia GPU all installed 
+- Make sure Windows and all of your Nvidia Drivers are up to date before starting
  
-==== GUIDE OVERVIEW ====
+### GUIDE OVERVIEW ###
 1. Installing Python
 2. (Optional) Install Notepad++
 3. Install Git
