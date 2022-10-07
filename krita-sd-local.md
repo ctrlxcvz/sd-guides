@@ -64,7 +64,8 @@ https://notepad-plus-plus.org/downloads/
 ```
 - Primarily used as an optional editor you can select during the Git installation in the step below.
 - Notepad++ is usually recommended over the default (Vim) - but we won't actively be using it.
-- You can edit .bat (& many more) files with Notepad++ - so it's good to have installed if you ever need to modify those files.
+- You can edit .bat (& many more) files with Notepad++ - so it's good to have installed if you ever need to modify those files. 
+- If skipped, select Vim during Git install and proceed.
  
 **Install Git:**
 ```
