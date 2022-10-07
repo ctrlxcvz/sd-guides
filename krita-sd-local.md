@@ -31,9 +31,9 @@ https://github.com/imperator-maximus/stable-diffusion-webui
  
 <details>
 <summary>
-  <h2>
+  <h1>
 Guide Overview
-  </h2>
+  </h1>
 </summary>
 
 1. Installing Python
