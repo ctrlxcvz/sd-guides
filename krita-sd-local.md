@@ -7,7 +7,7 @@
 - There is a Google Colab method that might be added later.
 - I recommend trying that on your own for now as that is an easier, albeit more limiting, method due to Colabs limitations.
  
-**Optional Pre-req - but makes things a lot easier later:**
+**Optional Pre-Req - BUT makes things a lot easier later:**
 - I recommend creating a GitHub account, star this repository (or at least bookmark it in your browser), and install GitHub Desktop:
 ```
 https://github.com/imperator-maximus/stable-diffusion-webui
@@ -25,11 +25,17 @@ https://github.com/imperator-maximus/stable-diffusion-webui
 - Make note of this directory for later.
  
 #### TECHNICAL REQUIREMENTS:
-- PC/WINDOWS WITH NVIDIA GRAPHICS CARD ONLY !!!! REQUIRES A LOT OF VRAM FOR LOCAL INSTALLATION
+- !! PC/WINDOWS WITH NVIDIA GRAPHICS CARD ONLY !! REQUIRES A LOT OF VRAM FOR LOCAL INSTALLATION !!
 - You need Python, Git, MS Visual Studio, and CUDA for Nvidia GPU all installed 
 - Make sure Windows and all of your Nvidia Drivers are up to date before starting
  
-### GUIDE OVERVIEW ###
+<details>
+<summary>
+  <h2>
+Guide Overview
+  </h2>
+</summary>
+
 1. Installing Python
 2. (Optional) Install Notepad++
 3. Install Git
@@ -40,7 +46,10 @@ https://github.com/imperator-maximus/stable-diffusion-webui
 8. Krita + SD setup
 9. Getting Started Running SD in Krita
 10. Acknowledgements
+</details>
+<br>
  
+
 **Python:**
 ```
 https://www.python.org/downloads/windows/
