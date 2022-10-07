@@ -201,7 +201,23 @@ And change to:
 ```
 demo.launch(share=True)(
 ```
-- Save and exit > in "stable-diffusion-webui" folder> Click "webui.bat"
+- Save and exit > in "stable-diffusion-webui" folder> Click "webui.bat".
+- The familiar CMD Prompt window should pop up and launch "webui.bat" just like it does "api.bat".
+- At the end, the output should be:
+```
+> Model loaded.
+> Running on local URL: http://127.0.0.1:[XXXX]
+> Running on public URL: https://[RANDOM_NUMBER].gradio.app
+```
+- Open up your favorite browser (Firefox, Ungoogled Chromium, or Brave are good.)
+- Copy and paste the "gradio.app" web address and go.
+- The browser should load a local webui instance of your very own Stable Diffusion WebUI!
+- It's entirely system-dependent just like "api.bat".
+ ![image](https://user-images.githubusercontent.com/111165333/194674649-38af6042-e136-47ef-b41a-4016240139ca.png)
+- The settings are effectively the same as offered in Krita; txt2img, img2img, and tons of diffusion options.
+
+![310648807_823000495368859_1392061855349642323_n](https://user-images.githubusercontent.com/111165333/194675322-06c76a04-13b0-4f39-a22a-71e4e3f5e950.jpg)
+- And it even works outside your own network; Just enter the "XXXX.gradio.app" address in any browser!
 
 **==== ACKNOWLEDGMENTS ====** <br>
 
@@ -211,6 +227,8 @@ This guide was assembled from the following websites:
 - https://victorkarp.com/git-tutorial-for-beginners-how-to-install-git-on-windows/
 - https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
 - https://beta.dreamstudio.ai/prompt-guide
+- https://www.reddit.com/r/StableDiffusion/comments/x058qi/comment/ipep6sk/?utm_source=share&utm_medium=web2x&context=3
+- https://www.reddit.com/user/shayeryan/
  
 **==== DONATIONS SO I CAN KEEP ON TINKERING IF YOU FOUND THIS USEFUL ====** <br>
 - ETH: ctrlxcvz.eth
@@ -219,15 +237,3 @@ This guide was assembled from the following websites:
 - XMR: 88hWjDuptnBerfkoTTAUhJ4AFuiMnMPSVVQhAbiV2rSEV7Gj2FaytRv1bnL8gPmL6U4L4XhFVBc4KbQLDmDM9hEaC4S1FV5 <br>
 
 **==== EVERY BIT HELPS - THANKS FOR READING ====**
-
-Okay I figure it out! Here it is step by step:
-
-    Edit the file webui.py in \stable-diffusion-webui-master or wherever your installation is.
-
-    Go to line 88 and change this line: demo.launch( to demo.launch(share=True)(Make sure to backup this file just in case.True has to be capitalized and you have to end with a opening parentheses ( exactly like it is here.
-
-    Launch your batch file webui.bat or webuiuser.bat
-
-    The command prompt will give you a URL like this. https://123456/gradio.app
-
-    Copy and paste that into a browser on another computer. Even works outside your network.
