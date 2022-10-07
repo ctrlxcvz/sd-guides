@@ -8,6 +8,7 @@ FOR WINDOWS 11 & NVIDIA GPUs </h2>
 - I recommend trying that on your own for now as that is an easier, albeit more limiting, method due to Colabs limitations.
  
 **Optional Pre-Req - BUT makes things a lot easier later:**
+- You can skip this step entirely and manually download the required zip file later in this guide if you prefer.
 - I recommend creating a GitHub account, star this repository (or at least bookmark it in your browser), and install GitHub Desktop:
 ```
 https://github.com/imperator-maximus/stable-diffusion-webui
