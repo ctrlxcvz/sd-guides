@@ -97,12 +97,13 @@ https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth
 ```
 - Leave this file in your "Downloads" folder for now.
- 
-!!!! DO THIS STEP ONLY IF YOU DIDN'T INSTALL GITHUB DESKTOP AND WEBUI FOLDER EARLIER !!!!
+
+### DO THIS STEP ONLY IF YOU DIDN'T INSTALL GITHUB DESKTOP AND WEBUI FOLDER EARLIER !!!!
 ** Download the Krita Stable Diffusion WebUI Local Interface here:
 https://codeload.github.com/imperator-maximus/stable-diffusion-webui/zip/refs/heads/master
 - Extract the "stable-diffusion-webui" folder from the downloaded zip file into a directory of your choice.
 - Make note of this directory.
+- 
  
 ** Move the "model.ckpt" and the "GFPGANV1.3.pth" files from the steps above into wherever your "stable-diffusion-webui" folder is.
 - If you installed from GitHub Desktop at the beginning, that folder should be in Documents > GitHub > stable-diffusion-webui.
