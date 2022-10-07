@@ -165,7 +165,9 @@ http://127.0.0.1:[XXXX]
 - Using this tool - draw a box selecting your entire canvas, or size you want the image to be.
 - Select "From Text" in the "Stable Diffusion" plugin window.
 - Enter whatever prompt you want to see + modifier words describing the style and detail.
-- I.E. > Prompt: An astronaut riding a horse on mars; Modifiers: Oil on canvas, detailed, van gough.
+- Example:
+> Prompt: An astronaut riding a horse on mars <br>
+> Modifiers: Oil on canvas, detailed, van gough.
 - For more prompt engineering tips and ideas: https://beta.dreamstudio.ai/prompt-guide
 - Click "OK" and VOILA! you should see it processing in the "api.bat" CMD Prompt window you left open earlier.
 - You can experiment with "Steps", "Guidance", and "Sampling Method" for different results.
