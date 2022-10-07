@@ -47,7 +47,7 @@ Guide Overview
 7. Download/Install Krita & Plugin
 8. Krita + SD setup
 9. Getting Started Running SD in Krita
-10. Acknowledgements
+10. Extras & Acknowledgements
 </details>
 <br>
  
@@ -188,7 +188,21 @@ Modifiers: Oil on canvas, detailed, van gough.
 - You can experiment with how much the image or text influences the overall output by tinkering with settings.
 - "Inpaint" = Allows you to generate a prompt within an image where there are empty pixels. <br>
 I.E. - You can input an image of a landscape, erase a part of the sky, select it w/ Ctrl + R, "Inpaint", and input the text prompt "UFO flying in the sky" and it should give you a selection of outputs to realistically place in that spot.
- 
+
+**==== LOCAL WEBUI EXTRAS===**
+- Open "stable-diffusion-webui" folder where "api.bat" is.
+- Look for a file named "webui.py"
+- Open with a basic text editor like "Notepad" (or Notepad++ if you decided to install that earlier ^_^)
+- Scroll towards the end (near line 90) and look for:
+```
+demo.launch(
+```
+And change to:
+```
+demo.launch(share=True)(
+```
+- Save and exit > in "stable-diffusion-webui" folder> Click "webui.bat"
+
 **==== ACKNOWLEDGMENTS ====** <br>
 
 This guide was assembled from the following websites:
@@ -205,3 +219,15 @@ This guide was assembled from the following websites:
 - XMR: 88hWjDuptnBerfkoTTAUhJ4AFuiMnMPSVVQhAbiV2rSEV7Gj2FaytRv1bnL8gPmL6U4L4XhFVBc4KbQLDmDM9hEaC4S1FV5 <br>
 
 **==== EVERY BIT HELPS - THANKS FOR READING ====**
+
+Okay I figure it out! Here it is step by step:
+
+    Edit the file webui.py in \stable-diffusion-webui-master or wherever your installation is.
+
+    Go to line 88 and change this line: demo.launch( to demo.launch(share=True)(Make sure to backup this file just in case.True has to be capitalized and you have to end with a opening parentheses ( exactly like it is here.
+
+    Launch your batch file webui.bat or webuiuser.bat
+
+    The command prompt will give you a URL like this. https://123456/gradio.app
+
+    Copy and paste that into a browser on another computer. Even works outside your network.
