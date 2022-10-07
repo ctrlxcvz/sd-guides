@@ -185,6 +185,7 @@ http://127.0.0.1:[XXXX]
 I.E. - You can input an image of a landscape, erase a part of the sky, select it w/ Ctrl + R, "Inpaint", and input the text prompt "UFO flying in the sky" and it should give you a selection of outputs to realistically place in that spot.
  
 **==== ACKNOWLEDGMENTS ====** <br>
+
 This guide was assembled from the following websites:
 - https://www.flyingdog.de/sd/en/
 - https://github.com/imperator-maximus
