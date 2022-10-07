@@ -1,6 +1,6 @@
 <h2> KRITA + STABLE DIFFUSION PC INSTALLATION GUIDE <br> 
 FOR WINDOWS 11 & NVIDIA GPUs </h2>
- 
+<br> 
 **Difficulty: Easy - Intermediate - [Advanced]**
 
 ### This guide is for local installation exclusively on your own machine currently.
