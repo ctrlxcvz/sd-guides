@@ -41,34 +41,46 @@ https://github.com/imperator-maximus/stable-diffusion-webui
 9. Getting Started Running SD in Krita
 10. Acknowledgements
  
-** Python: 
+**Python:**
+```
 https://www.python.org/downloads/windows/
+```
 - I suggest selecting "COPY PATH" check mark box during installation. 
  
-+ (optional) +
-** Install Notepad++ Editor: 
+**(Optional) Install Notepad++ Editor:**
+```
 https://notepad-plus-plus.org/downloads/
+```
 - Primarily used as an optional editor you can select during the Git installation in the step below.
 - Notepad++ is usually recommended over the default (Vim) - but we won't actively be using it.
 - You can edit .bat (& many more) files with Notepad++ - so it's good to have installed if you ever need to modify those files.
  
-** Install Git: 
+**Install Git:**
+```
 https://git-scm.com/download/win
+```
 - Git Installation Guide: 
+```
 https://victorkarp.com/git-tutorial-for-beginners-how-to-install-git-on-windows/
+```
  
-** Install Microsoft Visual Studio: 
+**Install Microsoft Visual Studio:**
+```
 https://visualstudio.microsoft.com/
+```
 - Select Download Visual Studio > Community 2022
-- Click on VisualStudioSetup.exe file you downloaded > Select "Desktop & Mobile" in launcher > select "Desktop Development with C++" 
-> Select "Install while Downloading" > and wait for it to finish. Once completed, you can close any instance of Visual Studio.
+- Click on VisualStudioSetup.exe file you downloaded > Select "Desktop & Mobile" in launcher > select "Desktop Development with C++" > Select "Install while Downloading" > and wait for it to finish. Once completed, you can close any instance of Visual Studio.
 - This is required for CUDA components to run correctly - check your Nvidia GPU card documentation for more information.
 - The primary objective is to get MSVC installed for the CUDA components. This accomplishes that goal. 
  
-** Install Windows Nvidia CUDA Toolkit: 
+**Install Windows Nvidia CUDA Toolkit:**
+```
 https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64
+```
 - Information on CUDA installation can be found here: 
-https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html  
+```
+https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
+```
  
 ** You need the model.ckpt file, the Stable Diffusion model checkpoint, a big file containing the neural network weights: 
 - You can obtain it from the following site: 
