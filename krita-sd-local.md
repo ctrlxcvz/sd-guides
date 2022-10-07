@@ -189,7 +189,7 @@ Modifiers: Oil on canvas, detailed, van gough.
 - "Inpaint" = Allows you to generate a prompt within an image where there are empty pixels. <br>
 I.E. - You can input an image of a landscape, erase a part of the sky, select it w/ Ctrl + R, "Inpaint", and input the text prompt "UFO flying in the sky" and it should give you a selection of outputs to realistically place in that spot.
 
-**==== LOCAL WEBUI EXTRAS===**
+**==== LOCAL WEBUI EXTRAS ====**
 - Open "stable-diffusion-webui" folder where "api.bat" is.
 - Look for a file named "webui.py"
 - Open with a basic text editor like "Notepad" (or Notepad++ if you decided to install that earlier ^_^)
