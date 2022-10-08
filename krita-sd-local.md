@@ -58,7 +58,7 @@ https://www.python.org/downloads/windows/
 ```
 - I suggest selecting "COPY PATH" check mark box during installation. 
  
-#### (Optional) Install Notepad++ Editor <sup>[2](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#-local-webui-extras-) :
+#### (Optional) Install Notepad++ Editor: <sup>[2](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#-local-webui-extras-)
 ```
 https://notepad-plus-plus.org/downloads/
 ```
