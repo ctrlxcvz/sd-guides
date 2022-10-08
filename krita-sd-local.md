@@ -182,12 +182,11 @@ Modifiers: Oil on canvas, detailed, van gough.
 - Sampling Method = Various diffusion and sampling methods using the Stable Diffusion model.
  
 !!!! CONGRATULATIONS !!!! YOU DID IT !!!!
-- HAVE FUN AND EXPERIMENT
-- There are plenty of settings to experiment with; there is no wrong method.
-- "From Image" = img2img processing where it combines an image + text prompt to generate a new image.
-- You can experiment with how much the image or text influences the overall output by tinkering with settings.
+
+Have fun and experiment with the other options like:
+- "From Image" = img2img processing where it combines an image + text prompt to generate a new image. You can experiment with how much the image or text influences the overall output by tinkering with settings.
 - "Inpaint" = Allows you to generate a prompt within an image where there are empty pixels. <br>
-I.E. - You can input an image of a landscape, erase a part of the sky, select it w/ Ctrl + R, "Inpaint", and input the text prompt "UFO flying in the sky" and it should give you a selection of outputs to realistically place in that spot.
+I.E. - You can input an image of a landscape > erase a part of the sky > select it w/ Ctrl + R > "Inpaint" > and input the text prompt "UFO flying in the sky" and it should give you a selection of outputs to realistically place in that spot.
 
 ##### ==== LOCAL WEBUI EXTRAS ====
 - Open "stable-diffusion-webui" folder where "api.bat" is.
