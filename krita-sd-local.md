@@ -103,7 +103,7 @@ https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 - Leave this file in your "Downloads" folder for now.
  
 **(Optional - but recommended)**
-- You can use GPFGAN to improve faces, then you'll need to download the model from here:
+- You can use GFPGAN to improve faces, then you'll need to download the model from here:
 ``` 
 https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth
 ```
