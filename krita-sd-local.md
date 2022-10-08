@@ -214,20 +214,23 @@ demo.launch(share=True)(
 - Copy and paste the "gradio.app" web address and go.
 - The browser should load a local webui instance of your very own Stable Diffusion WebUI!
 - The CMD Prompt window functions just like "api.bat".
+<br>
 
-<sub>Image of gradio.app UI in browser</sub>
+<em>Image of gradio.app UI in browser</em>
 ![image](https://user-images.githubusercontent.com/111165333/194674649-38af6042-e136-47ef-b41a-4016240139ca.png)
+<br>
 - This panel functions similar to the Krita plugin; txt2img, img2img, and tons of diffusion options.
 - There are far more technical options under "Settings". 
+<br>
 
-<sub>Image of gradio.app UI on mobile </sub> ![310648807_823000495368859_1392061855349642323_n](https://user-images.githubusercontent.com/111165333/194675322-06c76a04-13b0-4f39-a22a-71e4e3f5e950.jpg)
+<em><center>Image of gradio.app UI on mobile</center></em>
+![310648807_823000495368859_1392061855349642323_n](https://user-images.githubusercontent.com/111165333/194675322-06c76a04-13b0-4f39-a22a-71e4e3f5e950.jpg)
 - And it even works outside your own network; Just enter the "XXXX.gradio.app" address in any browser!
 - Close the CMD prompt "webui.bat" window when you are done running this instance of Stable Diffusion.
 <br>
+
+**==== ACKNOWLEDGMENTS ====** 
 <br>
-
-**==== ACKNOWLEDGMENTS ====** <br>
-
 This guide was assembled from the following websites:
 - https://www.flyingdog.de/sd/en/
 - https://github.com/imperator-maximus
@@ -236,7 +239,6 @@ This guide was assembled from the following websites:
 - https://beta.dreamstudio.ai/prompt-guide
 - https://www.reddit.com/r/StableDiffusion/comments/x058qi/comment/ipep6sk/?utm_source=share&utm_medium=web2x&context=3
 - https://www.reddit.com/user/shayeryan/
-<br>
 <br>
 
 **==== DONATIONS SO I CAN KEEP ON TINKERING IF YOU FOUND THIS USEFUL ====** <br>
