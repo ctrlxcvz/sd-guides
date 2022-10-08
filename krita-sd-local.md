@@ -161,7 +161,7 @@ http://127.0.0.1:[XXXX]
 - A configuration window should appear and under the "Webservice URL" box enter the URL you noted down earlier.
 - Leave all settings as is and click "OK".
  
-**FINISHING UP: GETTING STARTED IN KRITA**
+**FINISHING UP & GETTING STARTED IN KRITA:**
 - Click "New File" on the Krita main page under "Start" OR hit Ctrl + N OR select File > New
 - Create a new document of any size - 512px X 512px or 1024px X 1024px @ 150-300 Resolution is usually a good place to start.
 - Select the "Rectangular Selection Tool" in the tool panel on the left - or hit Ctrl + R
