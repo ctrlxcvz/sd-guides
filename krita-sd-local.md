@@ -212,7 +212,8 @@ demo.launch(share=True)(
 - Open up your favorite browser (Firefox, Ungoogled Chromium, or Brave are good.)
 - Copy and paste the "gradio.app" web address and go.
 - The browser should load a local webui instance of your very own Stable Diffusion WebUI!
-- It's entirely system-dependent just like "api.bat".
+- The CMD Prompt window functions just like "api.bat".
+
  ![image](https://user-images.githubusercontent.com/111165333/194674649-38af6042-e136-47ef-b41a-4016240139ca.png)
 - The settings are effectively the same as offered in Krita; txt2img, img2img, and tons of diffusion options.
 
