@@ -1,7 +1,8 @@
 <h2> KRITA + STABLE DIFFUSION PC INSTALLATION GUIDE <br> 
 FOR WINDOWS 11 & NVIDIA GPUs </h2> 
 
-### This guide is for local installation exclusively on your own machine currently.
+**Installation of Krita.**<br>
+**Local installation of Stable Diffusion.**
 
 **Difficulty: Easy - Intermediate - [Advanced]**
 
