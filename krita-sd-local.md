@@ -215,7 +215,8 @@ demo.launch(share=True)(
 - The CMD Prompt window functions just like "api.bat".
 
  ![image](https://user-images.githubusercontent.com/111165333/194674649-38af6042-e136-47ef-b41a-4016240139ca.png)
-- The settings are effectively the same as offered in Krita; txt2img, img2img, and tons of diffusion options.
+- This panel functions similar to the Krita plugin; txt2img, img2img, and tons of diffusion options.
+- There are far more technical options under "Settings". 
 
 ![310648807_823000495368859_1392061855349642323_n](https://user-images.githubusercontent.com/111165333/194675322-06c76a04-13b0-4f39-a22a-71e4e3f5e950.jpg)
 - And it even works outside your own network; Just enter the "XXXX.gradio.app" address in any browser!
