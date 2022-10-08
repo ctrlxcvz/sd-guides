@@ -155,7 +155,7 @@ http://127.0.0.1:[XXXX]
 - !! LEAVE THIS COMMAND PROMPT WINDOW RUNNING TILL YOU ARE FINISHED !!
 - !! CLICK API.BAT TO RUN YOUR LOCAL SD FROM HERE ON EVERY TIME YOU WANT TO RUN KRITA + SD PLUGIN !! 
  
-**PUTTING IT ALL TOGETHER AND RUNNING IT**
+**PUTTING IT ALL TOGETHER AND RUNNING IT:**
 - Minimize the CMD Prompt window or move it aside.
 - Open Krita again > on the "Stable Diffusion" plugin window > click on the Square Icon on the bottom left.
 - A configuration window should appear and under the "Webservice URL" box enter the URL you noted down earlier.
