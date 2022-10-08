@@ -151,8 +151,7 @@ https://www.flyingdog.de/sd/en/sd_plugin_krita_beta5.zip
 > Running on local URL:
 http://127.0.0.1:[XXXX]
 ```
-- Where X = 4 digit number of your local SD instance.
-- Note down the "127.0.0.1:[XXXX]" URL output somewhere.
+- Note down the "127.0.0.1:[XXXX]" URL output somewhere (Windows sticky notes is nifty).
 - !! LEAVE THIS COMMAND PROMPT WINDOW RUNNING TILL YOU ARE FINISHED !!
 - !! CLICK API.BAT TO RUN YOUR LOCAL SD FROM HERE ON EVERY TIME YOU WANT TO RUN KRITA + SD PLUGIN !! 
  
@@ -228,9 +227,10 @@ demo.launch(share=True)(
 - And it even works outside your own network; Just enter the "XXXX.gradio.app" address in any browser!
 - Close the CMD prompt "webui.bat" window when you are done running this instance of Stable Diffusion.
 <br>
-
-**==== ACKNOWLEDGMENTS ====** 
 <br>
+
+**==== ACKNOWLEDGMENTS ====**
+
 This guide was assembled from the following websites:
 - https://www.flyingdog.de/sd/en/
 - https://github.com/imperator-maximus
