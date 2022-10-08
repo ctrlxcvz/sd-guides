@@ -22,7 +22,7 @@ https://desktop.github.com/
 ```
 https://github.com/imperator-maximus/stable-diffusion-webui
 ```
-- Click "CODE" > "OPEN WITH GITHUB DESKTOP"
+- Click "CODE" > "OPEN WITH GITHUB DESKTOP".
 - GitHub Desktop default directory should be Documents > GitHub on your PC where it downloaded the folder "stable-diffusion-webui".
 - Make note of this directory for later.
  
