@@ -58,7 +58,7 @@ https://www.python.org/downloads/windows/
 ```
 - I suggest selecting "COPY PATH" check mark box during installation. 
  
-**(Optional) Install Notepad++ Editor:**
+#### (Optional) Install Notepad++ Editor <sup>[2](https://github.com/ctrlxcvz/sd-guides/edit/main/krita-sd-local.md#-local-webui-extras-) :
 ```
 https://notepad-plus-plus.org/downloads/
 ```
@@ -139,7 +139,7 @@ https://www.flyingdog.de/sd/en/sd_plugin_krita_beta5.zip
 - The "Stable Diffusion" panel should be loaded in the bottom right window with the options "From Text", "From Image", and "Inpaint".
 - Once you have confirmed the plugin installed correctly, you can minimize Krita.
  
-**Open the "stable-diffusion-webui" folder you downloaded earlier**
+**Open the "stable-diffusion-webui" folder you downloaded earlier:**
 - Click on the "api.bat" file; a windows Command Prompt should launch a local instance of Stable Diffusion on your machine.
 - ! If it fails the first time, click on it again to run it.
 - ! If it seems to be hanging on any part for long periods I.E. "Installing Requirements for Web UI", select the Command Prompt window and hit "Enter" (or any key) to get it going again. If it continues to hang, try hitting a key again.
@@ -192,7 +192,7 @@ I.E. - You can input an image of a landscape, erase a part of the sky, select it
 ##### ==== LOCAL WEBUI EXTRAS ====
 - Open "stable-diffusion-webui" folder where "api.bat" is.
 - Look for a file named "webui.py"
-- Open with a basic text editor like "Notepad" (or Notepad++ if you decided to install that earlier ^_^)
+- Open with a basic text editor like "Notepad" (or Notepad++ if you decided to install that earlier ^_^) <sup>[2](https://github.com/ctrlxcvz/sd-guides/edit/main/krita-sd-local.md#optional-install-notepad-editor)</sup> 
 - Scroll towards the end (near line 90) and look for:
 ```
 demo.launch(
