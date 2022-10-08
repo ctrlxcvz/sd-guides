@@ -192,7 +192,7 @@ I.E. - You can input an image of a landscape, erase a part of the sky, select it
 ##### ==== LOCAL WEBUI EXTRAS ====
 - Open "stable-diffusion-webui" folder where "api.bat" is.
 - Look for a file named "webui.py"
-- Open with a basic text editor like "Notepad" (or Notepad++ if you decided to install that earlier ^_^) <sup>[2](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#optional-install-notepad-editor-2-)</sup> 
+- Open with a basic text editor like "Notepad" (or Notepad++ if you decided to install that earlier ^_^) <sup>[2](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#optional-install-notepad-editor-2)</sup> 
 - Scroll towards the end (near line 90) and look for:
 ```
 demo.launch(
