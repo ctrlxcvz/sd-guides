@@ -28,8 +28,8 @@ https://github.com/imperator-maximus/stable-diffusion-webui
  
 #### TECHNICAL REQUIREMENTS:
 - !! PC/WINDOWS WITH NVIDIA GRAPHICS CARD ONLY !! REQUIRES A LOT OF VRAM FOR LOCAL INSTALLATION !!
-- You need Python, Git, MS Visual Studio, and CUDA for Nvidia GPU all installed 
-- Make sure Windows and all of your Nvidia Drivers are up to date before starting
+- You need Python, Git, MS Visual Studio, and CUDA for Nvidia GPU all installed. 
+- Make sure Windows and all of your Nvidia Drivers are up to date before starting.
  
 <details>
 <summary>
@@ -118,7 +118,7 @@ https://codeload.github.com/imperator-maximus/stable-diffusion-webui/zip/refs/he
 - Extract the "stable-diffusion-webui" folder from the downloaded zip file into a directory of your choice.
 - Make note of this directory.
 
-**Move the "model.ckpt" and the "GFPGANV1.3.pth" files to the "stable-diffusion-webui" directory**
+**Move the "model.ckpt" and the "GFPGANV1.3.pth" files to the "stable-diffusion-webui" directory:**
 - If you installed from GitHub Desktop at the beginning, that folder should be in Documents > GitHub > stable-diffusion-webui.
 - If you downloaded the zip file, it's where you extracted the folder to.
  
