@@ -159,7 +159,7 @@ https://www.flyingdog.de/sd/en/sd_plugin_krita_beta5.zip
 - Once you have confirmed the plugin installed correctly, you can minimize Krita.
 
 
-**<details><summary>! TROUBLESHOOT: If it did not load correctly:</summary>**
+**<details><summary>!! TROUBLESHOOT: If it did not load correctly !!</summary>**
 <p>
 
 - In Krita, click *Settings* > *Configure Krita* > *Python Plugin Manager* and look for the *Stable DIffusion* plugin. 
