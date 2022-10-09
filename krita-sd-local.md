@@ -152,8 +152,27 @@ https://www.flyingdog.de/sd/en/sd_plugin_krita_beta5.zip
 - Select *Tools > Scripts > Import Python Plugin from File* > and select the *sd_plugin_krita_beta5.zip* file you just downloaded.
 - This will require Krita to restart, so once the plugin is installed, close Krita and relaunch it.
 - The *Stable Diffusion* panel should be loaded in the bottom right window with the options *From Text*, *From Image*, and *Inpaint*.
+
+![image](https://user-images.githubusercontent.com/111165333/194737442-a9e0d78e-8597-42ec-a0ab-cca7ba6b9d2f.png)
+
+- It may take a minute for it to load the new plugin.
 - Once you have confirmed the plugin installed correctly, you can minimize Krita.
+
+
+**<details><summary>! TROUBLESHOOT: If it did not load correctly:</summary>**
+<p>
+
+- In Krita, click *Settings* > *Configure Krita* > *Python Plugin Manager* and look for the *Stable DIffusion* plugin. 
+- Make sure the check box on the left is ticked.
+- Click *OK* and restart Krita - It should load correctly this time.
  
+! If you don't see *Stable Diffusion* listed - *Close Krita > Relaunch > Import* the plugin again, and restart Krita.
+- Check the *Python Plugin Manager* in settings to make sure *Stable Diffusion* is enabled.
+
+</p>
+</details>
+<br>
+
 **Open the *stable-diffusion-webui* folder you downloaded earlier:**
 - Click on the *api.bat* file; a windows Command Prompt should launch a local instance of Stable Diffusion on your machine.
 - ! If it fails the first time, click on it again to run it.
