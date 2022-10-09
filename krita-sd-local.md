@@ -166,7 +166,7 @@ http://127.0.0.1:[XXXX]
 - Create a new document of any size - 512px X 512px or 1024px X 1024px @ 150-300 Resolution is usually a good place to start.
 - Select the *Rectangular Selection Tool* in the tool panel on the left - or hit Ctrl + R.
 - Using this tool - draw a box selecting your entire canvas, or size you want the image to be.
-- Select "From Text" in the *Stable Diffusion* plugin window.
+- Select *From Text* in the *Stable Diffusion* plugin window.
 - Enter whatever prompt you want to see + modifier words describing the style and detail.
 ```
 Prompt: An astronaut riding a horse on mars. 
