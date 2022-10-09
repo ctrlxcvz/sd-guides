@@ -154,7 +154,7 @@ https://www.flyingdog.de/sd/en/sd_plugin_krita_beta5.zip
 - The *Stable Diffusion* panel should be loaded in the bottom right window with the options *From Text*, *From Image*, and *Inpaint*.
 - Once you have confirmed the plugin installed correctly, you can minimize Krita.
  
-**Open the "stable-diffusion-webui" folder you downloaded earlier:**
+**Open the *stable-diffusion-webui* folder you downloaded earlier:**
 - Click on the *api.bat* file; a windows Command Prompt should launch a local instance of Stable Diffusion on your machine.
 - ! If it fails the first time, click on it again to run it.
 - ! If it seems to be hanging on any part for long periods I.E. > *Installing Requirements for Web UI*, select the Command Prompt window and hit *Enter* to get it going again. If it continues to hang, try hitting a key again.
