@@ -152,7 +152,7 @@ https://www.flyingdog.de/sd/en/sd_plugin_krita_beta5.zip
 - Go back to the running instance of Krita.
 - Select *Tools > Scripts > Import Python Plugin from File* > and select the *sd_plugin_krita_beta5.zip* file you just downloaded.
 - This will require Krita to restart, so once the plugin is installed, close Krita and relaunch it.
-- The *Stable Diffusion* panel should be loaded in the bottom right window with the options *From Text*, *From Image*, and *Inpaint*.
+- The *Stable Diffusion* panel should be loaded in the bottom right window like so:
 
 ![image](https://user-images.githubusercontent.com/111165333/194737442-a9e0d78e-8597-42ec-a0ab-cca7ba6b9d2f.png)
 
