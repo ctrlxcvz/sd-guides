@@ -81,7 +81,7 @@ https://victorkarp.com/git-tutorial-for-beginners-how-to-install-git-on-windows/
 ```
 https://visualstudio.microsoft.com/
 ```
-- Select Download Visual Studio > Community 2022
+- Select Download *Visual Studio > Community 2022*
 - Click on *VisualStudioSetup.exe* file you downloaded > Select *Desktop & Mobile* in launcher > select *Desktop Development with C+* > Select *Install while Downloading* > and wait for it to finish. Once completed, you can close any instance of Visual Studio.
 - This is required for CUDA components to run correctly - check your Nvidia GPU card documentation for more information.
 - The primary objective is to get MSVC installed for the CUDA components. This accomplishes that goal. 
