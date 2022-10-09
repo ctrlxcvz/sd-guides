@@ -21,7 +21,7 @@ FOR WINDOWS 11 & NVIDIA GPUs </h2>
 
 
  
-### Optional Pre-Req - BUT makes things slightly easier later:
+### Optional Pre-Req - Just makes things slightly easier later:
 - You can skip this step entirely and manually download the required zip file later if you prefer. <sup>[1](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#-do-the-following-step-only-if-you-didnt-install-github-desktop-and-webui-folder-earlier-)</sup>
 - I recommend creating a GitHub account, star the repository below (or at least bookmark it in your browser), and install GitHub Desktop:
 ```
