@@ -289,7 +289,7 @@ This guide was assembled from the following websites:
  ```
 - BTC: 
  ```
- bc1qxdr9869dh42vtuctn5a4s3f68secyzal4e7gnn
+ bc1q073hyc4gnd4zpr3zvxldqxd7pwusktw7tguu4g
  ```
 - SOL: 
  ```
