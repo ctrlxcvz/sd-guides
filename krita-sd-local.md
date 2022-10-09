@@ -4,7 +4,18 @@ FOR WINDOWS 11 & NVIDIA GPUs </h2>
 **Installation of Krita.**<br>
 **Local installation of Stable Diffusion.**
 
-**Difficulty: Easy - Intermediate - [Advanced]**
+<details><summary>Difficulty:</summary>
+<p>
+ 
+| Scale: |
+| :---         |    
+| Easy   |
+| Intermediate |
+| [ _**Advanced**_ ] |
+
+
+</p>
+</details>
 
 - There is a Google Colab method that might be added later.
 - I recommend trying that on your own for now as that is an easier, albeit more limiting, method due to Colabs limitations.
@@ -39,6 +50,7 @@ Guide Overview
   </h1>
 </summary>
 
+ 
 1. Install Python
 2. (Optional) Install Notepad++
 3. Install Git
@@ -49,6 +61,7 @@ Guide Overview
 8. Krita + SD setup
 9. Getting Started Running SD in Krita
 10. Extras & Acknowledgements
+
 </details>
 <br>
  
