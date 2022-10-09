@@ -258,10 +258,22 @@ This guide was assembled from the following websites:
 - https://www.reddit.com/user/shayeryan/
 <br>
 
-**==== DONATIONS SO I CAN KEEP ON TINKERING IF YOU FOUND THIS USEFUL ====** <br>
+**<details><summary>DONATIONS SO I CAN KEEP ON TINKERING</summary>**
+<p>
+ 
+**If you found this useful:**
+ 
 - ETH: 0x97Fb39F4d9e1b1aE6ad9D3Cf99fb7C423Cb5FafE
 - BTC: bc1qxdr9869dh42vtuctn5a4s3f68secyzal4e7gnn
 - SOL: 4CeqibD5LqpPb5XgC9TdxfA2NMUBntnUTRFTEWzvBzVo
 - XMR: 88hWjDuptnBerfkoTTAUhJ4AFuiMnMPSVVQhAbiV2rSEV7Gj2FaytRv1bnL8gPmL6U4L4XhFVBc4KbQLDmDM9hEaC4S1FV5 <br>
+ 
+ **==== EVERY BIT HELPS! ====**
 
-**==== EVERY BIT HELPS - THANKS FOR READING ====**
+
+</p>
+</details>
+
+<br>
+
+**==== THANKS FOR READING! ====**
