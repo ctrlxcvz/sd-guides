@@ -13,12 +13,13 @@ FOR WINDOWS 11 & NVIDIA GPUs </h2>
 | Intermediate |
 | [ _**Advanced**_ ] |
 
+ There is a Google Colab method that might be added later.
+ I recommend trying that on your own for now as that is an easier, albeit more limiting, method due to Colabs free runtime limitations.
 
 </p>
 </details>
 
-- There is a Google Colab method that might be added later.
-- I recommend trying that on your own for now as that is an easier, albeit more limiting, method due to Colabs limitations.
+
  
 ### Optional Pre-Req - BUT makes things slightly easier later:
 - You can skip this step entirely and manually download the required zip file later if you prefer. <sup>[1](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#-do-the-following-step-only-if-you-didnt-install-github-desktop-and-webui-folder-earlier-)</sup>
