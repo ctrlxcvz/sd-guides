@@ -174,14 +174,18 @@ Modifiers: Oil on canvas, detailed, van gough.
 ```
 - For more prompt engineering tips and ideas: https://beta.dreamstudio.ai/prompt-guide
 - Click "OK" and VOILA! you should see it processing in the "api.bat" CMD Prompt window you left open earlier.
+
+![kritasdprompt](https://user-images.githubusercontent.com/111165333/194732342-61282eef-5348-4d37-bc71-6ce69257a01b.png)
 - You can experiment with "Steps", "Guidance", and "Sampling Method" for different results.
 - Steps: Higher = Slower but often better quality.
 - Number Images = How many images you want generated per instance - maximum of 4.
 - Advanced - Seed (empty=random) = Random images are generated each time when left blank.
 - Guidance Scale = How strongly the image should follow the prompt.
 - Sampling Method = Various diffusion and sampling methods using the Stable Diffusion model.
- 
-!!!! CONGRATULATIONS !!!! YOU DID IT !!!!
+
+![Krita_SD](https://user-images.githubusercontent.com/111165333/194732392-511ba30e-2a5b-45eb-bbb9-8f1982f5d7dc.png)
+
+ !!!! CONGRATULATIONS !!!! YOU DID IT !!!!
 
 Have fun and experiment with the other options like:
 - "From Image" = img2img processing where it combines an image + text prompt to generate a new image. You can experiment with how much the image or text influences the overall output by tinkering with settings.
