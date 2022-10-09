@@ -23,8 +23,8 @@ https://desktop.github.com/
 ```
 https://github.com/imperator-maximus/stable-diffusion-webui
 ```
-- Click "CODE" > "OPEN WITH GITHUB DESKTOP".
-- GitHub Desktop default directory should be Documents > GitHub on your PC where it downloaded the folder "stable-diffusion-webui".
+- Click *Code > Open With GitHub Desktop*.
+- GitHub Desktop default directory should be Documents > GitHub on your PC where it downloaded the folder *stable-diffusion-webui*.
 - Make note of this directory for later.
  
 #### TECHNICAL REQUIREMENTS:
@@ -57,7 +57,7 @@ Guide Overview
 ```
 https://www.python.org/downloads/windows/
 ```
-- I suggest selecting "COPY PATH" check mark box during installation. 
+- I suggest selecting *Copy Path* check mark box during installation. 
  
 #### (Optional) Install Notepad++ Editor: <sup>[2](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#-local-webui-extras-)</sup>
 ```
@@ -82,7 +82,7 @@ https://victorkarp.com/git-tutorial-for-beginners-how-to-install-git-on-windows/
 https://visualstudio.microsoft.com/
 ```
 - Select Download Visual Studio > Community 2022
-- Click on VisualStudioSetup.exe file you downloaded > Select "Desktop & Mobile" in launcher > select "Desktop Development with C++" > Select "Install while Downloading" > and wait for it to finish. Once completed, you can close any instance of Visual Studio.
+- Click on VisualStudioSetup.exe file you downloaded > Select *Desktop & Mobile* in launcher > select *Desktop Development with C+* > Select *Install while Downloading* > and wait for it to finish. Once completed, you can close any instance of Visual Studio.
 - This is required for CUDA components to run correctly - check your Nvidia GPU card documentation for more information.
 - The primary objective is to get MSVC installed for the CUDA components. This accomplishes that goal. 
  
@@ -100,15 +100,15 @@ https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.htm
 https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 ```
 - The Stable Diffusion model checkpoint file is roughly ~4GB in size. 
-- Once downloaded - rename the file from "stable-diffusion-v-1-4-original.ckpt" to "model.ckpt"
-- Leave this file in your "Downloads" folder for now.
+- Once downloaded - rename the file from *stable-diffusion-v-1-4-original.ckpt* to *model.ckpt*
+- Leave this file in your *Downloads* folder for now.
  
 **(Optional - but recommended)**
 - You can use GFPGAN to improve faces, then you'll need to download the model from here:
 ``` 
 https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth
 ```
-- Leave this file in your "Downloads" folder for now.
+- Leave this file in your *Downloads* folder for now.
 
 ### !! DO THE FOLLOWING STEP ONLY IF YOU DIDN'T INSTALL GITHUB DESKTOP AND WEBUI FOLDER EARLIER !!
 - You can skip this step if you did the GitHub Desktop Pre-Req above. <sup>[1](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#optional-pre-req---but-makes-things-slightly-easier-later)</sup>
@@ -116,11 +116,11 @@ https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth
 ```
 https://codeload.github.com/imperator-maximus/stable-diffusion-webui/zip/refs/heads/master
 ```
-- Extract the "stable-diffusion-webui" folder from the downloaded zip file into a directory of your choice.
+- Extract the *stable-diffusion-webui* folder from the downloaded zip file into a directory of your choice.
 - Make note of this directory.
 
-**Move the "model.ckpt" and the "GFPGANV1.3.pth" files to the "stable-diffusion-webui" directory:**
-- If you installed from GitHub Desktop at the beginning, that folder should be in Documents > GitHub > stable-diffusion-webui.
+**Move the *model.ckpt* and the *GFPGANV1.3.pth* files to the *stable-diffusion-webui* directory:**
+- If you installed from GitHub Desktop at the beginning, that folder should be in *Documents > GitHub > stable-diffusion-webui*.
 - If you downloaded the zip file, it's where you extracted the folder to.
  
 **Download Krita here:**
@@ -135,15 +135,15 @@ https://krita.org/en/download/krita-desktop/
 https://www.flyingdog.de/sd/en/sd_plugin_krita_beta5.zip
 ```
 - Go back to the running instance of Krita.
-- Select Tools > Scripts > Import Python Plugin from File > and select the "sd_plugin_krita_beta5.zip" file you just downloaded.
+- Select *Tools > Scripts > Import Python Plugin from File* > and select the *sd_plugin_krita_beta5.zip* file you just downloaded.
 - This will require Krita to restart, so once the plugin is installed, close Krita and relaunch it.
-- The "Stable Diffusion" panel should be loaded in the bottom right window with the options "From Text", "From Image", and "Inpaint".
+- The *Stable Diffusion* panel should be loaded in the bottom right window with the options *From Text*, *From Image*, and *Inpaint*.
 - Once you have confirmed the plugin installed correctly, you can minimize Krita.
  
 **Open the "stable-diffusion-webui" folder you downloaded earlier:**
-- Click on the "api.bat" file; a windows Command Prompt should launch a local instance of Stable Diffusion on your machine.
+- Click on the *api.bat* file; a windows Command Prompt should launch a local instance of Stable Diffusion on your machine.
 - ! If it fails the first time, click on it again to run it.
-- ! If it seems to be hanging on any part for long periods I.E. "Installing Requirements for Web UI", select the Command Prompt window and hit "Enter" (or any key) to get it going again. If it continues to hang, try hitting a key again.
+- ! If it seems to be hanging on any part for long periods I.E. > *Installing Requirements for Web UI*, select the Command Prompt window and hit *Enter* to get it going again. If it continues to hang, try hitting a key again.
 - If everything is successful, you should see in the Command Prompt window output at the end:
 ```
 > Global Step: 470000
@@ -151,32 +151,32 @@ https://www.flyingdog.de/sd/en/sd_plugin_krita_beta5.zip
 > Running on local URL:
 http://127.0.0.1:[XXXX]
 ```
-- Note down the "127.0.0.1:[XXXX]" URL output somewhere (Windows sticky notes is nifty).
+- Note down the *127.0.0.1:[XXXX]* URL output somewhere (Windows sticky notes is nifty).
 - !! LEAVE THIS COMMAND PROMPT WINDOW RUNNING TILL YOU ARE FINISHED !!
 - !! CLICK API.BAT TO RUN YOUR LOCAL SD FROM HERE ON EVERY TIME YOU WANT TO RUN KRITA + SD PLUGIN !! 
  
 **PUTTING IT ALL TOGETHER AND RUNNING IT:**
 - Minimize the CMD Prompt window or move it aside.
-- Open Krita again > on the "Stable Diffusion" plugin window > click on the Square Icon on the bottom left.
-- A configuration window should appear and under the "Webservice URL" box enter the URL you noted down earlier.
-- Leave all settings as is and click "OK".
+- Open Krita again > on the *Stable Diffusion* plugin window > click on the *Square Icon* on the bottom left.
+- A configuration window should appear and under the *Webservice URL* box enter the URL you noted down earlier.
+- Leave all settings as is and click *OK*.
  
 **FINISHING UP & GETTING STARTED IN KRITA:**
-- Click "New File" on the Krita main page under "Start" OR hit Ctrl + N OR select File > New
+- Click *New File* on the Krita main page under *Start* OR hit Ctrl + N OR select *File > New*
 - Create a new document of any size - 512px X 512px or 1024px X 1024px @ 150-300 Resolution is usually a good place to start.
-- Select the "Rectangular Selection Tool" in the tool panel on the left - or hit Ctrl + R
+- Select the *Rectangular Selection Tool* in the tool panel on the left - or hit Ctrl + R.
 - Using this tool - draw a box selecting your entire canvas, or size you want the image to be.
-- Select "From Text" in the "Stable Diffusion" plugin window.
+- Select "From Text" in the *Stable Diffusion* plugin window.
 - Enter whatever prompt you want to see + modifier words describing the style and detail.
 ```
 Prompt: An astronaut riding a horse on mars. 
 Modifiers: Oil on canvas, detailed, van gough.
 ```
 - For more prompt engineering tips and ideas: https://beta.dreamstudio.ai/prompt-guide
-- Click "OK" and VOILA! you should see it processing in the "api.bat" CMD Prompt window you left open earlier.
+- Click *OK* and *VOILA!* you should see it processing in the *api.bat* CMD Prompt window you left open earlier.
 
 ![kritasdprompt](https://user-images.githubusercontent.com/111165333/194732342-61282eef-5348-4d37-bc71-6ce69257a01b.png)
-- You can experiment with "Steps", "Guidance", and "Sampling Method" for different results.
+- You can experiment with *Steps*, *Guidance*, and *Sampling Method* for different results.
 - Steps: Higher = Slower but often better quality.
 - Number Images = How many images you want generated per instance - maximum of 4.
 - Advanced - Seed (empty=random) = Random images are generated each time when left blank.
@@ -188,14 +188,14 @@ Modifiers: Oil on canvas, detailed, van gough.
  !!!! CONGRATULATIONS !!!! YOU DID IT !!!!
 
 Have fun and experiment with the other options like:
-- "From Image" = img2img processing where it combines an image + text prompt to generate a new image. You can experiment with how much the image or text influences the overall output by tinkering with settings.
-- "Inpaint" = Allows you to generate a prompt within an image where there are empty pixels. <br>
-I.E. - You can input an image of a landscape > erase a part of the sky > select it w/ Ctrl + R > "Inpaint" > and input the text prompt "UFO flying in the sky" and it should give you a selection of outputs to realistically place in that spot.
+- *From Image* = img2img processing where it combines an image + text prompt to generate a new image. You can experiment with how much the image or text influences the overall output by tinkering with settings.
+- *Inpaint* = Allows you to generate a prompt within an image where there are empty pixels. <br>
+I.E. > *You can input an image of a landscape > erase a part of the sky > select it w/ Ctrl + R > Inpaint > and input the text prompt "UFO flying in the sky" and it should give you a selection of outputs to realistically place in that spot*.
 
 ##### ==== LOCAL WEBUI EXTRAS ====
-- Open "stable-diffusion-webui" folder where "api.bat" is.
-- Look for a file named "webui.py"
-- Open with a basic text editor like "Notepad" (or Notepad++ if you decided to install that earlier ^_^) <sup>[2](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#optional-install-notepad-editor-2)</sup> 
+- Open *stable-diffusion-webui* folder where *api.bat* is.
+- Look for a file named *webui.py*
+- Open with a basic text editor like *Notepad* (or Notepad++ if you decided to install that earlier ^_^) <sup>[2](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#optional-install-notepad-editor-2)</sup> 
 - Scroll towards the end (near line 90) and look for:
 ```
 demo.launch(
@@ -204,8 +204,8 @@ And change to:
 ```
 demo.launch(share=True)(
 ```
-- Save and exit > in "stable-diffusion-webui" folder> Click "webui.bat".
-- The familiar CMD Prompt window should pop up and launch "webui.bat" just like it does "api.bat".
+- Save and exit > in *stable-diffusion-webui* folder> Click *webui.bat*.
+- The familiar CMD Prompt window should pop up and launch *webui.bat* just like it does *api.bat*.
 - At the end, the output should be:
 ```
 > Model loaded.
@@ -213,22 +213,22 @@ demo.launch(share=True)(
 > Running on public URL: https://[RANDOM_NUMBER].gradio.app
 ```
 - Open up your favorite browser (Firefox, Ungoogled Chromium, or Brave are good.)
-- Copy and paste the "gradio.app" web address and go.
+- Copy and paste the *gradio.app* web address and go.
 - The browser should load a local webui instance of your very own Stable Diffusion WebUI!
-- The CMD Prompt window functions just like "api.bat".
+- The CMD Prompt window functions just like *api.bat*.
 <br>
 
 <em>Image of gradio.app UI in browser</em>
 ![image](https://user-images.githubusercontent.com/111165333/194674649-38af6042-e136-47ef-b41a-4016240139ca.png)
 <br>
 - This panel functions similar to the Krita plugin; txt2img, img2img, and tons of diffusion options.
-- There are far more technical options under "Settings". 
+- There are far more technical options under *Settings*. 
 <br>
 
 <em><center>Image of gradio.app UI on mobile</center></em>
 ![310648807_823000495368859_1392061855349642323_n](https://user-images.githubusercontent.com/111165333/194675322-06c76a04-13b0-4f39-a22a-71e4e3f5e950.jpg)
-- And it even works outside your own network; Just enter the "XXXX.gradio.app" address in any browser!
-- Close the CMD prompt "webui.bat" window when you are done running this instance of Stable Diffusion.
+- And it even works outside your own network; Just enter the *XXXX.gradio.app* address in any browser!
+- Close the CMD prompt *webui.bat* window when you are done running this instance of Stable Diffusion.
 <br>
 <br>
 
