@@ -219,7 +219,7 @@ Modifiers: Oil on canvas, detailed, van gough.
 
 ![Krita_SD](https://user-images.githubusercontent.com/111165333/194732392-511ba30e-2a5b-45eb-bbb9-8f1982f5d7dc.png)
 
- !!!! CONGRATULATIONS !!!! YOU DID IT !!!!
+**!!!! CONGRATULATIONS !!!! YOU DID IT !!!!**
 
 Have fun and experiment with the other options like:
 - *From Image* = img2img processing where it combines an image + text prompt to generate a new image. You can experiment with how much the image or text influences the overall output by tinkering with settings.
