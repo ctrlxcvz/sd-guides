@@ -179,7 +179,7 @@ https://www.flyingdog.de/sd/en/sd_plugin_krita_beta5.zip
 **Open the *stable-diffusion-webui* folder you downloaded earlier:**
 - Click on the *api.bat* file; a windows Command Prompt should launch a local instance of Stable Diffusion on your machine.
 - ! If it fails the first time, click on it again to run it.
-- ! If it seems to be hanging on any part for long periods I.E. > *Installing Requirements for Web UI*, select the Command Prompt window and hit *Enter* to get it going again. If it continues to hang, try hitting a key again.
+- ! If it seems to be hanging on any part for long periods I.E. > *Installing Requirements for Web UI*, select the Command Prompt window and hit *Enter* to get it going again. If it continues to hang, hit the *Enter* key again.
 - If everything is successful, you should see in the Command Prompt window output at the end:
 ```
 > Global Step: 470000
@@ -227,6 +227,9 @@ Have fun and experiment with the other options like:
 - *From Image* = img2img processing where it combines an image + text prompt to generate a new image. You can experiment with how much the image or text influences the overall output by tinkering with settings.
 - *Inpaint* = Allows you to generate a prompt within an image where there are empty pixels. <br>
 I.E. > *You can input an image of a landscape > erase a part of the sky > select it w/ Ctrl + R > Inpaint > and input the text prompt "UFO flying in the sky" and it should give you a selection of outputs to realistically place in that spot*.
+
+>REMINDER: You need to start *api.bat* and leave the CMD Prompt window open as long as you are using Krita. <br>
+>Be sure to close both Krita and the CMD Prompt window when you are done with both.
 
 ##### ==== LOCAL WEBUI EXTRAS ====
 - Open *stable-diffusion-webui* folder where *api.bat* is.
