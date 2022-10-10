@@ -1,5 +1,4 @@
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ctrlxcvz/sd-guides?style=plastic) <br>
-![Twitter Follow](https://img.shields.io/twitter/follow/ctrlxcvz?style=social)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ctrlxcvz/sd-guides?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ctrlxcvz/sd-guides?style=plastic) ![Twitter Follow](https://img.shields.io/twitter/follow/ctrlxcvz?style=social)
 
 <h2> KRITA + STABLE DIFFUSION PC INSTALLATION GUIDE <br> 
 FOR WINDOWS 11 & NVIDIA GPUs </h2> 
