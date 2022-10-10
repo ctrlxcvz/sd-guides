@@ -1,3 +1,5 @@
+![Twitter Follow](https://img.shields.io/twitter/follow/ctrlxcvz?style=social)
+
 <h2> KRITA + STABLE DIFFUSION PC INSTALLATION GUIDE <br> 
 FOR WINDOWS 11 & NVIDIA GPUs </h2> 
 
