@@ -178,8 +178,8 @@ https://www.flyingdog.de/sd/en/sd_plugin_krita_beta5.zip
 
 **Open the *stable-diffusion-webui* folder you downloaded earlier:**
 - Click on the *api.bat* file; a windows Command Prompt should launch a local instance of Stable Diffusion on your machine.
->!! If it fails the first time, click on it again to run it. <br>
->!! If it seems to be hanging on any part for long periods I.E. > *Installing Requirements for Web UI*, select the Command Prompt window and hit *Enter* to get it going again. If it continues to hang, hit the *Enter* key again.
+>!! - If it fails the first time, click on it again to run it. <br>
+>!! - If it seems to be hanging on any part for long periods I.E. > *Installing Requirements for Web UI*, select the Command Prompt window and hit *Enter* to get it going again. If it continues to hang, hit the *Enter* key again.
 - If everything is successful, you should see in the Command Prompt window output at the end:
 ```
 > Global Step: 470000
