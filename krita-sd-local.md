@@ -6,20 +6,6 @@ FOR WINDOWS 11 & NVIDIA GPUs </h2>
 **Installation of Krita.**<br>
 **Local installation of Stable Diffusion.**
 
-<details><summary>Difficulty:</summary>
-<p>
- 
-| Scale: |
-| :---         |    
-| Easy   |
-| Intermediate |
-| [ _**Advanced**_ ] |
-
- There is a Google Colab method that might be added later.
- I recommend trying that on your own for now as that is an easier, albeit more limiting, method due to Colabs free runtime limitations.
-
-</p>
-</details>
 
 ### Optional Install:
 
@@ -47,6 +33,22 @@ https://github.com/imperator-maximus/stable-diffusion-webui
 >!! PC/WINDOWS WITH NVIDIA GRAPHICS CARD ONLY !!<br>
 >!! Minimum VRAM: 6-8GB <br>
 >!! Recommended: 8GB+
+
+<details><summary>Difficulty:</summary>
+<p>
+ 
+| Scale: |
+| :---         |    
+| Easy   |
+| Intermediate |
+| [ _**Advanced**_ ] |
+
+ There is a Google Colab method that might be added later.
+ I recommend trying that on your own for now as that is an easier, albeit more limiting, method due to Colabs free runtime limitations.
+
+</p>
+</details>
+
 - You need Python, Git, MS Visual Studio, and CUDA for Nvidia GPU all installed. 
 - Make sure Windows and all of your Nvidia Drivers are up to date before starting.
  
