@@ -196,8 +196,10 @@ https://www.flyingdog.de/sd/en/sd_plugin_krita_beta5.zip
 http://127.0.0.1:[XXXX]
 ```
 - Note down the *127.0.0.1:[XXXX]* URL output somewhere (Windows sticky notes is nifty).
->!! LEAVE THIS COMMAND PROMPT WINDOW RUNNING TILL YOU ARE FINISHED !!
+>!! LEAVE THIS COMMAND PROMPT WINDOW RUNNING TILL YOU ARE FINISHED !!<br>
 >!! CLICK API.BAT TO RUN YOUR LOCAL SD FROM HERE ON EVERY TIME YOU WANT TO RUN KRITA + SD PLUGIN !! 
+
+<br>
  
 **PUTTING IT ALL TOGETHER AND RUNNING IT:**
 - Minimize the CMD Prompt window or move it aside.
