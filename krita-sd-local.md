@@ -21,10 +21,14 @@ FOR WINDOWS 11 & NVIDIA GPUs </h2>
 </p>
 </details>
 
+<details>
+<summary>
+  <h2>
+Optional Pre-Req; Just makes things slightly easier later:
+  </h2>
+</summary>
 
- 
-### Optional Pre-Req - Just makes things slightly easier later:
-- You can skip this step entirely and manually download the required zip file later if you prefer. <sup>[1](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#-do-this-following-step-only-if)</sup>
+ - You can skip this step entirely and manually download the required zip file later if you prefer. <sup>[1](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#-do-this-following-step-only-if)</sup>
 - I recommend creating a GitHub account, star the repository below (or at least bookmark it in your browser), and install GitHub Desktop:
 ```
 https://github.com/imperator-maximus/stable-diffusion-webui
@@ -40,7 +44,9 @@ https://github.com/imperator-maximus/stable-diffusion-webui
 - Click *Code > Open With GitHub Desktop*.
 - GitHub Desktop default directory should be *Documents > GitHub* on your PC where it downloaded the folder *stable-diffusion-webui*.
 - Make note of this directory for later.
- 
+</details>
+<br>
+
 #### TECHNICAL REQUIREMENTS:
 >!! PC/WINDOWS WITH NVIDIA GRAPHICS CARD ONLY !!<br>
 >!! Minimum VRAM: 6-8GB <br>
