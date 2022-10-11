@@ -45,7 +45,6 @@ https://github.com/imperator-maximus/stable-diffusion-webui
 - GitHub Desktop default directory should be *Documents > GitHub* on your PC where it downloaded the folder *stable-diffusion-webui*.
 - Make note of this directory for later.
 </details>
-<br>
 
 #### TECHNICAL REQUIREMENTS:
 >!! PC/WINDOWS WITH NVIDIA GRAPHICS CARD ONLY !!<br>
