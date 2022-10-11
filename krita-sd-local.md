@@ -137,7 +137,7 @@ https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth
 **<details><summary>You didn't Install GitHub Desktop and WebUI folder from earlier.<br>
  Otherwise; proceed onward and disregard this. </summary>**
 
-- You can skip this step if you did the GitHub Desktop Pre-Req above. <sup>[1](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#optional-pre-req-just-makes-things-slightly-easier-later--)</sup>
+- You can skip this step if you did the optional GitHub Desktop install above. <sup>[1](https://github.com/ctrlxcvz/sd-guides/blob/main/krita-sd-local.md#optional-install)</sup>
 - Download the Krita Stable Diffusion WebUI Local Interface here:
 ```
 https://codeload.github.com/imperator-maximus/stable-diffusion-webui/zip/refs/heads/master
