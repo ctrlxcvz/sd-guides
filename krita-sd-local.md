@@ -243,6 +243,8 @@ I.E. > *You can input an image of a landscape > erase a part of the sky > select
 >REMINDER: You need to start *api.bat* and leave the CMD Prompt window open as long as you are using Krita. <br>
 >Be sure to close both Krita and the CMD Prompt window when you are done with both.
 
+<br>
+
 ##### ==== LOCAL WEBUI EXTRAS ====
 - Open *stable-diffusion-webui* folder where *api.bat* is.
 - Look for a file named *webui.py*
