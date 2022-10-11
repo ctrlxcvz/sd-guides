@@ -42,7 +42,9 @@ https://github.com/imperator-maximus/stable-diffusion-webui
 - Make note of this directory for later.
  
 #### TECHNICAL REQUIREMENTS:
-- !! PC/WINDOWS WITH NVIDIA GRAPHICS CARD ONLY !! REQUIRES A LOT OF VRAM FOR LOCAL INSTALLATION !!
+>!! PC/WINDOWS WITH NVIDIA GRAPHICS CARD ONLY !!<br>
+>!! Minimum VRAM: 6-8GB <br>
+>!! Recommended: 8GB+
 - You need Python, Git, MS Visual Studio, and CUDA for Nvidia GPU all installed. 
 - Make sure Windows and all of your Nvidia Drivers are up to date before starting.
  
