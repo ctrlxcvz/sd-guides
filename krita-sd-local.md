@@ -1,4 +1,4 @@
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ctrlxcvz/sd-guides?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ctrlxcvz/sd-guides?style=plastic) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/0xmobius/sd-guides?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/0xmobius/sd-guides?style=plastic) 
 
 <h2> KRITA + STABLE DIFFUSION PC INSTALLATION GUIDE <br> 
 FOR WINDOWS 11 & NVIDIA GPUs </h2> 
@@ -224,7 +224,9 @@ Modifiers: Oil on canvas, detailed, van gough.
 - Click *OK* and *VOILA!* you should see it processing in the *api.bat* CMD Prompt window you left open earlier.
 
 ![kritasdprompt](https://user-images.githubusercontent.com/111165333/194732342-61282eef-5348-4d37-bc71-6ce69257a01b.png)
-- You can experiment with *Steps*, *Guidance*, and *Sampling Method* for different results.
+<br>
+
+**You can experiment with *Steps*, *Guidance*, and *Sampling Method* for different results:**
 - Steps: Higher = Slower but often better quality.
 - Number Images = How many images you want generated per instance - maximum of 4.
 - Advanced - Seed (empty=random) = Random images are generated each time when left blank.
