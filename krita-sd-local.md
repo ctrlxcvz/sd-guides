@@ -45,9 +45,9 @@ https://github.com/imperator-maximus/stable-diffusion-webui
 </p>
 </details>
 
->!! PC/WINDOWS WITH NVIDIA GRAPHICS CARD ONLY !!<br>
->!! Minimum VRAM: 6-8GB <br>
->!! Recommended: 8GB+
+>!! - PC/WINDOWS WITH NVIDIA GRAPHICS CARD ONLY !!<br>
+>!! - Minimum VRAM: 6-8GB <br>
+>!! - Recommended: 8GB+
 
 
 
@@ -204,8 +204,8 @@ https://www.flyingdog.de/sd/en/sd_plugin_krita_beta5.zip
 http://127.0.0.1:[XXXX]
 ```
 - Note down the *127.0.0.1:[XXXX]* URL output somewhere (Windows sticky notes is nifty).
->!! LEAVE THIS COMMAND PROMPT WINDOW RUNNING TILL YOU ARE FINISHED !!<br>
->!! CLICK *api.bat* TO RUN YOUR LOCAL SD FROM HERE ON EVERY TIME YOU WANT TO RUN KRITA + SD PLUGIN !! 
+>!! - LEAVE THIS COMMAND PROMPT WINDOW RUNNING TILL YOU ARE FINISHED !!<br>
+>!! - CLICK *api.bat* TO RUN YOUR LOCAL SD FROM HERE ON EVERY TIME YOU WANT TO RUN KRITA + SD PLUGIN !! 
 
 <br>
  
