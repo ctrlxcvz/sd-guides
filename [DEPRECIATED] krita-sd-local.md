@@ -1,6 +1,6 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ctrlxcvz/sd-guides?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ctrlxcvz/sd-guides?style=plastic) 
 
-##THIS METHOD IS NOW OBSOLETE AND DEPRECIATED.
+## THIS METHOD IS NOW OBSOLETE AND DEPRECIATED.
 
 <h2> KRITA + STABLE DIFFUSION PC INSTALLATION GUIDE <br> 
 FOR WINDOWS 11 & NVIDIA GPUs </h2> 
